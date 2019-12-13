@@ -1,0 +1,6 @@
+conversion.c:13:7:calculateVin	16	static
+conversion.c:17:7:calculateRt	16	static
+conversion.c:21:7:calculateTemp	40	static
+conversion.c:39:5:search_item	24	static
+conversion.c:46:5:findNeighbours	24	static
+conversion.c:57:7:convert_C_F	16	static
